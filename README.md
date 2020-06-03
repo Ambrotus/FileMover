@@ -1,4 +1,5 @@
 # FileMover
+ Release - https://github.com/Ambrotus/FileMover/releases
  
 This just recursively goes through your directories matching file extensions and moves them to another location. There are very few safeguards implemented to stop you from ruining your operating system.
 This was a personal project to move a couple hundred thousand pictures from one hard drive to another while creating the original directory tree in the new location.
